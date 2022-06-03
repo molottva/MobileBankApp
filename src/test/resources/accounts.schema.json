@@ -29,7 +29,7 @@
         "default": 0
       },
       "currency": {
-        "enum": ["usd", "RUB"]
+        "enum": ["USD", "RUB"]
       }
     }
   }
